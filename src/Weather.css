@@ -4,5 +4,58 @@
     padding: 20px;
     border-radius: 4px;
     color: rgb(135, 135, 135);
+    margin: 30px auto 0 auto;
+    max-width: 600px;
+}
+
+.Weather form{
+    margin-bottom: 20px;
+}
+.Weather h1{
+    font-size: 36px;
+    font-weight: 100;
+    line-height: 29px;
     margin: 10px 10px;
+}
+.Weather li{
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 1.2;
+    list-style: none;
+    margin: 10px;
+}
+.Weather ul{
+    margin: 0;
+    padding: 0;
+}
+
+.Weather .temperature{
+    font-weight: 400;
+    font-size: 64px;
+line-height: 1.5;
+}
+
+.Weather .unit{
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+    top: -34px;
+    margin-left: 5px;
+
+}
+.Weather img{
+    height: 1.5;
+    margin-left: 10px;
+
+   
+}
+
+.Weather .details{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+ 
+}
+
+Weather .tempUnit{
+    margin-top: 60px;
 }
