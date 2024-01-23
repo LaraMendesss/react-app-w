@@ -1,0 +1,20 @@
+.WeatherForecast{
+    text-align: center;
+    padding: 20px;
+}
+
+.WeatherForecast canvas{
+
+    margin: 0;
+    padding:10px 0;
+    
+}
+
+.ForMaxTemp{
+
+font-weight: bold;
+}
+
+.ForMinTemp{
+    opacity: 80%;
+}
