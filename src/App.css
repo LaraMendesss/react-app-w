@@ -13,8 +13,8 @@ body{
 }
 
 .App p{
-    font-size: 36px;
-    color: rgb(13, 110, 253);
+    font-size: 40px;
+    color: grey;
     text-align: center;
     margin-top: 30px;
     font-weight: 600;
